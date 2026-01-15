@@ -1,0 +1,7 @@
+User-agent: *
+User-agent: Mediapartners-Google
+
+Sitemap: https://only-games.github.io/sitemap.xml
+
+Disallow: /footer.html
+Disallow: /header.html
